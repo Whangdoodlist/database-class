@@ -1,5 +1,5 @@
 # database-class
-Part 4
+
 SELECT loc_id, bldg_code, room, capacity
 FROM location
 ORDER BY loc_id;
