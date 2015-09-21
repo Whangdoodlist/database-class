@@ -1,7 +1,7 @@
 # database-class
 
 SELECT loc_id, bldg_code, room, capacity
-FROM location
+FROM loc
 ORDER BY loc_id;
 
 SELECT f_id, f_last, f_first, f_mi, loc_id, f_phone, f_rank, f_super, f_pin, f_image
